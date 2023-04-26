@@ -18,7 +18,7 @@ from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 
 bot = Client(
-    "Arnav" ,
+    "Mickey" ,
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
@@ -54,7 +54,7 @@ PHOTO = [
 EMOJIOS = [ 
       "🦋",
       "💥",
-      "🪄💖",
+      "🪄",
       "🧨",
       "⚡",
       "🤡",
