@@ -21,7 +21,7 @@
         "OWNER_ID": {
             "description": "Your Id Here! For Eg: 54326909.",
             "required": true,
-            "value": "1514764914"
+            "value": "5482561033"
         },
         "BOT_NAME": {
             "description": "Simple Bot-name. Do not use Modified Text..",
