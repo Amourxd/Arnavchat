@@ -73,43 +73,43 @@
         },
         "START_IMG1": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG2": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG3": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG4": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG5": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG6": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG7": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG8": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG9": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "START_IMG10": {
             "description": "Start Image For Bot.",
-            "required": true
+            "required": false
         },
         "API_ID": {
             "description": "telegram api id here",
