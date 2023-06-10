@@ -12,11 +12,13 @@
         },
         "BOT_USERNAME": {
             "description": "telegram bot username here without @",
-            "required": true
+            "required": true,
+            "value": "Arnavchat_bot"
         },
         "OWNER_USERNAME": {
             "description": "Owner Username without @",
-            "required": true
+            "required": true,
+            "value": "aboutarnav"
         },
         "OWNER_ID": {
             "description": "Your Id Here! For Eg: 54326909.",
@@ -25,15 +27,18 @@
         },
         "BOT_NAME": {
             "description": "Simple Bot-name. Do not use Modified Text..",
-            "required": true
+            "required": true,
+            "value": "˹𝜩ᴍɪʟʏ 𝐂ʜᴀᴛ˼"
         },
         "UPDATE_CHNL": {
             "description": "Your Updates Channel without @",
-            "required": true
+            "required": true,
+            "value": "op_arnav_singh"
         },
         "SUPPORT_GRP": {
             "description": "Your Support Group without @",
-            "required": true
+            "required": true,
+            "value": "link_copied"
         },
         "STKR": {
             "description": "Sticker for start ",
